@@ -1,5 +1,7 @@
 此處是我的人生小筆記 不記下來全部忘光光
 
+* LogBook for Ruby on rails https://github.com/testman007/BlogArticle/blob/master/ruby/LogBook_for_Ruby_on_rails.md
+
 * 用心好文專區
 
 You are not a Sidekiq professional if you don’t know these tricks
