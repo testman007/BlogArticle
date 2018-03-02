@@ -4,6 +4,8 @@
 
 * 用心好文專區
 
+* iTerm2 介面優化 https://github.com/testman007/BlogArticle/blob/master/iTerm2/iTerm2%E4%BB%8B%E9%9D%A2%E5%84%AA%E5%8C%96.md
+
 You are not a Sidekiq professional if you don’t know these tricks
 嚇死你的RubyMine怎麼帶我向上飛 分享它如何解省我的時間升生產力
 私人手工製作的Library 內含可彈性的控制RWD的Library、大量省Code的觀念
