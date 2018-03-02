@@ -1,10 +1,26 @@
 此處是我的人生小筆記 不記下來全部忘光光
 
-* LogBook for Ruby on rails https://github.com/testman007/BlogArticle/blob/master/ruby/LogBook_for_Ruby_on_rails.md
+* DOM	
+* Interview Prepare	
+* JavaScript	 
+* Jquery 
+* Linux	
+* PHP	
+* Redis	 
+* css	
+* git
+* html	
+* iTerm2
+  介面優化 https://github.com/testman007/BlogArticle/blob/master/iTerm2/iTerm2%E4%BB%8B%E9%9D%A2%E5%84%AA%E5%8C%96.md
+* ifalo
+  https://github.com/testman007/BlogArticle/blob/master/ifalo/ifalo-todolist.md
+* rails	
+* ruby	
+  LogBook for Ruby on rails https://github.com/testman007/BlogArticle/blob/master/ruby/LogBook_for_Ruby_on_rails.md
+* server	
+* sql
 
-* 用心好文專區
 
-* iTerm2 介面優化 https://github.com/testman007/BlogArticle/blob/master/iTerm2/iTerm2%E4%BB%8B%E9%9D%A2%E5%84%AA%E5%8C%96.md
 
 You are not a Sidekiq professional if you don’t know these tricks
 嚇死你的RubyMine怎麼帶我向上飛 分享它如何解省我的時間升生產力
